@@ -1,0 +1,31 @@
+{
+  "symbol": "MVC",
+  "name": "MaiVangCity",
+  "type": "ERC20",
+  "address": "0xebfc4fa869a6db3cbd6a849b5b656bae4aba68f0",
+  "ens_address": "",
+  "decimals": 0,
+  "website": "https://maivangcity.com",
+  "logo": {
+    "src": "https://maivangcity.com/images/logo/logo-maivang-city-256x256.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "contact@maivangcity.com", "url": "" },
+  "social": {
+    "blog": "https://maivangcity.com/blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/thanhphomaivang/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/maivangcity",
+    "reddit": "https://reddit.com/r/maivangcity",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/maivangcity",
+    "youtube": ""
+  }
+}
